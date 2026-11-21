@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+
+assets/Asmaa_Alhabaibeh_Graphic_Designer_CV.pdf
